@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @VIJAYVINNY
-- 👀 I’m interested in Codig
-- 🌱 I’m currently learning C#,ASP.NET
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- Intersted in learnig from others
-
+- 👀 I’m interested in Coding
+- FrontEnd BackEnd ani em ledu anni nerchukuntunna. 
+- Knowledge on SQL and MongoDB.
+- Interested in Cyber Security
